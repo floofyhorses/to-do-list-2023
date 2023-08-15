@@ -1,0 +1,38 @@
+
+body {
+  
+  background-color: cornsilk;
+}
+
+.coolTitle {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 20px;
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: rgb(71, 172, 255);
+  text-shadow: 
+    -1px -1px 0 rgb(177, 34, 153),
+    -2px -2px 0 rgb(177, 34, 153),
+    -3px -3px 0 rgb(177, 34, 153),
+    -4px -4px 0 rgb(177, 34, 153),
+    -5px -5px 0 rgb(177, 34, 153),
+    -6px -6px 0 rgb(177, 34, 153),
+    -7px -7px 0 rgb(177, 34, 153),
+    -8px -8px 0 rgb(177, 34, 153),
+    -30px 20px 40px dimgrey;
+}
+
+.done {
+  text-decoration: line-through;
+}
+.noline {
+  text-decoration: none;
+}
+
+.delete {
+  background-color: rgb(255, 0, 157);
+  margin-right: auto;
+}
+
+/*This is my complete version*/
